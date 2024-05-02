@@ -1,0 +1,10 @@
+D:\Optics PROJECT\Optics House\Optics 1.0\Optics 1.0\bin\Debug\Optics 1.0.exe.config
+D:\Optics PROJECT\Optics House\Optics 1.0\Optics 1.0\bin\Debug\Optics 1.0.exe
+D:\Optics PROJECT\Optics House\Optics 1.0\Optics 1.0\bin\Debug\Optics 1.0.pdb
+D:\Optics PROJECT\Optics House\Optics 1.0\Optics 1.0\obj\Debug\Optics 1.0.csproj.AssemblyReference.cache
+D:\Optics PROJECT\Optics House\Optics 1.0\Optics 1.0\obj\Debug\Optics_1._0.Form1.resources
+D:\Optics PROJECT\Optics House\Optics 1.0\Optics 1.0\obj\Debug\Optics_1._0.Properties.Resources.resources
+D:\Optics PROJECT\Optics House\Optics 1.0\Optics 1.0\obj\Debug\Optics 1.0.csproj.GenerateResource.cache
+D:\Optics PROJECT\Optics House\Optics 1.0\Optics 1.0\obj\Debug\Optics 1.0.csproj.CoreCompileInputs.cache
+D:\Optics PROJECT\Optics House\Optics 1.0\Optics 1.0\obj\Debug\Optics 1.0.exe
+D:\Optics PROJECT\Optics House\Optics 1.0\Optics 1.0\obj\Debug\Optics 1.0.pdb
