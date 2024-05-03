@@ -12,7 +12,8 @@ namespace Optics_1._0
     {
         public static SqlConnection Connection()
         {
-            string connectionString = "Data Source=DESKTOP-MP3S7K5\\SQLEXPRESS;Initial Catalog=Optics_DB;Integrated Security=True";
+            string user = "DESKTOP-E6PJS48";
+            string connectionString = "Data Source=" + user + ";Initial Catalog=Optics_DB;Integrated Security=True";
             SqlConnection Connection1 = new SqlConnection(connectionString);
             try
             {
