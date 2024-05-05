@@ -8,3 +8,14 @@ D:\Optics PROJECT\Optics House\Optics 1.0\Optics 1.0\obj\Debug\Optics 1.0.csproj
 D:\Optics PROJECT\Optics House\Optics 1.0\Optics 1.0\obj\Debug\Optics 1.0.exe
 D:\Optics PROJECT\Optics House\Optics 1.0\Optics 1.0\obj\Debug\Optics 1.0.pdb
 D:\Optics PROJECT\Optics House\Optics 1.0\Optics 1.0\obj\Debug\Optics_1._0.Customer.resources
+E:\visual studio Cummunity projects\optics\Optics 1.0\bin\Debug\Optics 1.0.exe.config
+E:\visual studio Cummunity projects\optics\Optics 1.0\bin\Debug\Optics 1.0.exe
+E:\visual studio Cummunity projects\optics\Optics 1.0\bin\Debug\Optics 1.0.pdb
+E:\visual studio Cummunity projects\optics\Optics 1.0\obj\Debug\Optics 1.0.csproj.AssemblyReference.cache
+E:\visual studio Cummunity projects\optics\Optics 1.0\obj\Debug\Optics 1.0.csproj.SuggestedBindingRedirects.cache
+E:\visual studio Cummunity projects\optics\Optics 1.0\obj\Debug\Optics_1._0.Customer.resources
+E:\visual studio Cummunity projects\optics\Optics 1.0\obj\Debug\Optics_1._0.Properties.Resources.resources
+E:\visual studio Cummunity projects\optics\Optics 1.0\obj\Debug\Optics 1.0.csproj.GenerateResource.cache
+E:\visual studio Cummunity projects\optics\Optics 1.0\obj\Debug\Optics 1.0.csproj.CoreCompileInputs.cache
+E:\visual studio Cummunity projects\optics\Optics 1.0\obj\Debug\Optics 1.0.exe
+E:\visual studio Cummunity projects\optics\Optics 1.0\obj\Debug\Optics 1.0.pdb
