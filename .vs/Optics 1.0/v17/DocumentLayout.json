@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Optics_House_C-_Desktop_Application\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB99915-9840-4F4C-97D2-F52A3A237D6A}|Optics 1.0\\Optics 1.0.csproj|G:\\Optics_House_C-_Desktop_Application\\optics 1.0\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CB99915-9840-4F4C-97D2-F52A3A237D6A}|Optics 1.0\\Optics 1.0.csproj|solutionrelative:optics 1.0\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB99915-9840-4F4C-97D2-F52A3A237D6A}|Optics 1.0\\Optics 1.0.csproj|g:\\optics_house_c-_desktop_application\\optics 1.0\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7CB99915-9840-4F4C-97D2-F52A3A237D6A}|Optics 1.0\\Optics 1.0.csproj|solutionrelative:optics 1.0\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB99915-9840-4F4C-97D2-F52A3A237D6A}|Optics 1.0\\Optics 1.0.csproj|g:\\optics_house_c-_desktop_application\\optics 1.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CB99915-9840-4F4C-97D2-F52A3A237D6A}|Optics 1.0\\Optics 1.0.csproj|solutionrelative:optics 1.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB99915-9840-4F4C-97D2-F52A3A237D6A}|Optics 1.0\\Optics 1.0.csproj|G:\\Optics_House_C-_Desktop_Application\\optics 1.0\\connectivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CB99915-9840-4F4C-97D2-F52A3A237D6A}|Optics 1.0\\Optics 1.0.csproj|solutionrelative:optics 1.0\\connectivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Optics_House_C-_Desktop_Application\\Optics 1.0\\Program.cs",
+              "RelativeDocumentMoniker": "Optics 1.0\\Program.cs",
+              "ToolTip": "G:\\Optics_House_C-_Desktop_Application\\Optics 1.0\\Program.cs",
+              "RelativeToolTip": "Optics 1.0\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T13:47:56.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Connectivity.cs",
+              "DocumentMoniker": "G:\\Optics_House_C-_Desktop_Application\\Optics 1.0\\Connectivity.cs",
+              "RelativeDocumentMoniker": "Optics 1.0\\Connectivity.cs",
+              "ToolTip": "G:\\Optics_House_C-_Desktop_Application\\Optics 1.0\\Connectivity.cs",
+              "RelativeToolTip": "Optics 1.0\\Connectivity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T13:40:17.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "G:\\Optics_House_C-_Desktop_Application\\Optics 1.0\\Form1.cs",
+              "RelativeDocumentMoniker": "Optics 1.0\\Form1.cs",
+              "ToolTip": "G:\\Optics_House_C-_Desktop_Application\\Optics 1.0\\Form1.cs",
+              "RelativeToolTip": "Optics 1.0\\Form1.cs",
+              "ViewState": "AQIAAI4AAAAAAAAAAAAuwJQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T13:40:17.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "G:\\Optics_House_C-_Desktop_Application\\Optics 1.0\\Form1.cs",
+              "RelativeDocumentMoniker": "Optics 1.0\\Form1.cs",
+              "ToolTip": "G:\\Optics_House_C-_Desktop_Application\\Optics 1.0\\Form1.cs [Design]",
+              "RelativeToolTip": "Optics 1.0\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T13:40:18.146Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

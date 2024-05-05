@@ -91,7 +91,7 @@ namespace Optics_1._0
             catch (Exception ex)
             {
                 // Show error message
-                MessageBox.Show("Error: " + ex.Message);
+                MessageBox.Show("Error: cannot ADD data !! " + ex.Message);
             }
             finally
             {
@@ -141,6 +141,11 @@ namespace Optics_1._0
         {
            
 
+
+        }
+
+        private void SeeReportButton(object sender, EventArgs e)
+        {
 
         }
     }

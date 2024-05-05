@@ -23,7 +23,7 @@ namespace Optics_1._0
             catch (Exception)
             {
 
-                MessageBox.Show("Error");
+                MessageBox.Show("Error while Connecting TO Database");
             }
             return Connection1;
         }
